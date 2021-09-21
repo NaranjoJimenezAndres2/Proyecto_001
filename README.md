@@ -12,16 +12,18 @@ En este proyecto se va a trabajar los diferentes comandos de Git
 
 **git branch**
 
-**git push **
+**git push**
 
-**git pull **
+**git pull**
 
-**git clone **
+**git clone**
 
 
-Ademas de .gitignore y descargas .ZIP
+Ademas de **.gitignore y descargas .ZIP**
 
 El proyecto consta de:
-la carpeta SRC: contiene los documentos txt que se han tratado para realizar la practica.
-la carpeta DOC: contiene el manual de GitHub y Git
+
+la carpeta ***SRC***: contiene los documentos txt que se han tratado para realizar la practica.
+
+la carpeta ***DOC***: contiene el manual de GitHub y Git
 
