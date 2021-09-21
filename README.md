@@ -2,14 +2,22 @@
 
 En este proyecto se va a trabajar los diferentes comandos de Git
 
-** git init **
-** git add **
-** git status **
-** git commit **
-** git branch **
-** git push **
-** git pull **
-** git clone **
+**git init**
+
+**git add**
+
+**git status**
+
+**git commit**
+
+**git branch**
+
+**git push **
+
+**git pull **
+
+**git clone **
+
 
 Ademas de .gitignore y descargas .ZIP
 
